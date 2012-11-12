@@ -7,10 +7,12 @@ alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 
 # Shortcuts
+alias server="open http://localhost:8000 && python -m SimpleHTTPServer"
 alias d="cd ~/Documents/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/Projects"
+alias sites="cd ~/Sites/"
 alias g="git"
 alias h="history"
 alias j="jobs"
