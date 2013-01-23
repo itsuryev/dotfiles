@@ -8,7 +8,8 @@ alias -- -="cd -"
 
 # Shortcuts
 alias server="open http://localhost:8000 && python -m SimpleHTTPServer"
-alias d="cd ~/Dropbox"
+alias d="cd ~/Documents"
+alias dp="cd ~/Dropbpx"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/Projects"
